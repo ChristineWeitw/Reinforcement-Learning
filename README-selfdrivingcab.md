@@ -34,6 +34,7 @@ We make our agent to solve the problem based on this reward table, it is time co
 In this case, the agent is always exploring and the action it takes is random. Since the agent is not learning from the past experience as well as not considering the reward and penalty behind the action, it would jump to random state and take more than 2000 timesteps to achieve the goal.
 The Reward Table
 
+![alt text](https://raw.githubusercontent.com/
   Figure1. Reward Table of state 322.
 
 Q-learning
