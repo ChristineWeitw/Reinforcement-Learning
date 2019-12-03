@@ -1,6 +1,6 @@
 # Reinforcement-Learning of 3 games coded in Matlab.
 
-# In the game of Coin-game, Prisoner-dilemma, and RockPaperScissor:
+## In the game of Coin-game, Prisoner-dilemma, and RockPaperScissor:
 We have used 2 different update policy to each of the 3 games.
 
 The 1st update policy (The update rules for each player are): 
@@ -17,7 +17,7 @@ The 2nd update policy :
 𝑝3(𝑘 + 1) = 𝑝3(𝑘) − 𝛼𝑟3(𝑘)𝑝3(𝑘) + 𝛼J𝔼9𝑝3(𝑘): − 𝑝3(𝑘)L, 𝑓𝑜𝑟 𝑎𝑙𝑙 𝑜𝑡h𝑒𝑟 𝑎𝑐𝑡𝑖𝑜𝑛𝑠 𝑜 ≠ 𝑐 
 
 
-# For the explanation of functions' names we created in these 3 games:
+## For the explanation of functions' names we created in these 3 games:
 
 list2.m and value2.m : calculate the value
 
