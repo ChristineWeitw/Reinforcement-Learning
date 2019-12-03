@@ -1,4 +1,4 @@
-# Reinforcement-Learning
+# Reinforcement-Learning in 3 games.
 
 # In the game of Coin-game, Prisoner-dilemma, and RockPaperScissor:
 We have used 2 different update policy to each of the 3 games.
